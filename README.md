@@ -40,13 +40,21 @@
             <td> 09. 29(수) </td>
             <td> Day 3. 3장: 함수 </td>
             <td>  
-                이호찬: <a href="#">4장</a>
+                이호찬: <a href="./3ch/cleancode-3장.pdf">3장</a>
             </td>
         </tr>
         <tr>
             <td> 4 </td>
             <td> 09. 30(목) </td>
             <td> Day 4. 4장: 주석 </td>
+            <td>  
+                -
+            </td>
+        </tr>
+        <tr>
+            <td> 5 </td>
+            <td> 10. 1(금) </td>
+            <td> Day 5. 5장: 형식 맞추기 </td>
             <td>  
                 -
             </td>
