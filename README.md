@@ -56,7 +56,7 @@
             <td> 10. 1(금) </td>
             <td> Day 5. 5장: 형식 맞추기 </td>
             <td>  
-                -
+                이호찬: <a href="./5ch/5ch.md">5장</a>
             </td>
         </tr>
     </tbody>
