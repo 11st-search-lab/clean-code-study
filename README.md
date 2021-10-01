@@ -44,9 +44,9 @@
             </td>
         </tr>
         <tr>
-            <td> 3 </td>
+            <td> 4 </td>
             <td> 09. 30(목) </td>
-            <td> Day 3. 4장: 주석 </td>
+            <td> Day 4. 4장: 주석 </td>
             <td>  
                 -
             </td>
