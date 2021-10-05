@@ -184,7 +184,7 @@ class Rect {
     Rect.count++;
   }
 
-	static getAreaCount: number;
+  static getAreaCount: number;
 
   getArea(): number {
     Rect.getAreaCount++;
@@ -352,6 +352,40 @@ const NotifyAlarm = (currentDate: string): void => {
 export default initController;
 ```
 
+```javascript
+import { $, atoi, getCurrentDate } from '../@shared/utils';
+import { renderAlarmList } from '../view/alarm-page';
+import { historyRouter } from '../@shared/router';
+import homePageController from './home-page';
+import model from '../model';
+
+const NotifyAlarm = (currentDate: string): void => {
+  ...
+  });
+};
+
+const updateNavigationTime = () => {
+  const navTimeElement = $('.nav__time') as HTMLSpanElement;
+  const currentDate = getCurrentDate();
+  navTimeElement.innerText = currentDate;
+}
+
+const navigationController = () => {
+  setInterval(() => {
+    updateNavigationTime();
+    NotifyAlarm();
+  }, 1000);
+};
+
+const initController = (): void => {
+  navigationController();
+  historyController();
+  homePageController();
+};
+
+export default initController;
+```
+
 ## 가로 형식 맞추기
 
 - 프록그래머는 명백하게 짧은 행을 선호한다.
@@ -376,19 +410,19 @@ template<typename T>
 class vector
 {
 	public:
-		typedef T																	value_type;
-		typedef size_t														size_type;
-		typedef ptrdiff_t													difference_type;
-		typedef T																	&reference;
-		typedef const T														&const_reference;
-		typedef T																	*pointer;
-		typedef const T														*const_pointer;
-		typedef vectorIterator<const T>						const_iterator;
-		typedef vectorIterator<T>									iterator;
+		typedef T					value_type;
+		typedef size_t					size_type;
+		typedef ptrdiff_t				difference_type;
+		typedef T					&reference;
+		typedef const T					&const_reference;
+		typedef T					*pointer;
+		typedef const T					*const_pointer;
+		typedef vectorIterator<const T>			const_iterator;
+		typedef vectorIterator<T>			iterator;
 		typedef reverse_iterator<const_iterator> 	const_reverse_iterator;
-		typedef reverse_iterator<iterator> 				reverse_iterator;
+		typedef reverse_iterator<iterator> 		reverse_iterator;
 	private:
-		typedef vector<T> _self;
+		typedef vector<T> 				_self;
 
 		pointer						_p;
 		size_type					_length;
