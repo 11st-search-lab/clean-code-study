@@ -1,7 +1,7 @@
 <div align=center>
 <h1> Clean Code </h1>
 
-****** 스터디🌱
+Clean Code를 읽고 정리해나가는 스터디입니다.🌱
 
 </div>
 
@@ -21,7 +21,7 @@
     <tbody>
         <tr>
             <td> 1 </td>
-            <td> 09. 27(월) </td>
+            <td> 09.27(월) </td>
             <td> Day 1. 1장: 깨끗한 코드 </td>
             <td>  
                 -
@@ -29,7 +29,7 @@
         </tr>
         <tr>
             <td> 2 </td>
-            <td> 09. 28(화) </td>
+            <td> 09.28(화) </td>
             <td> Day 2. 2장: 의미있는 이름 </td>
             <td>  
                 -
@@ -37,7 +37,7 @@
         </tr>
         <tr>
             <td> 3 </td>
-            <td> 09. 29(수) </td>
+            <td> 09.29(수) </td>
             <td> Day 3. 3장: 함수 </td>
             <td>  
                 이호찬: <a href="./3ch/cleancode-3장.pdf">3장</a>
@@ -45,18 +45,26 @@
         </tr>
         <tr>
             <td> 4 </td>
-            <td> 09. 30(목) </td>
+            <td> 09.30(목) </td>
             <td> Day 4. 4장: 주석 </td>
             <td>  
-                -
+                김다미: <a href="./4ch/ch-04.md">4장</a>
             </td>
         </tr>
         <tr>
             <td> 5 </td>
-            <td> 10. 1(금) </td>
+            <td> 10.01(금) </td>
             <td> Day 5. 5장: 형식 맞추기 </td>
             <td>  
                 이호찬: <a href="./5ch/5ch.md">5장</a>
+            </td>
+        </tr>
+         <tr>
+            <td> 6 </td>
+            <td> 10.05(화) </td>
+            <td> Day 6. 6장: 객체와 자료 구조 </td>
+            <td>  
+                김다미: <a href="./6ch/ch-06.md">6장</a>
             </td>
         </tr>
     </tbody>
