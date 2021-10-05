@@ -32,7 +32,7 @@ Clean Code를 읽고 정리해나가는 스터디입니다.🌱
             <td> 09.28(화) </td>
             <td> Day 2. 2장: 의미있는 이름 </td>
             <td>  
-                -
+                김다미: <a href="https://docs.google.com/presentation/d/1Ee2HLbYbDE-a2ZU6oZNaGxUF5WFHsSAeUu-3hSKVvQE/edit?usp=sharing">2장</a>
             </td>
         </tr>
         <tr>
