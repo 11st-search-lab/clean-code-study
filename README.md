@@ -29,7 +29,7 @@ Clean Code를 읽고 정리해나가는 스터디입니다.🌱
         </tr>
         <tr>
             <td> 2 </td>
-            <td> 09.28(화) </td>
+            <td> 09.29(수) </td>
             <td> Day 2. 2장: 의미있는 이름 </td>
             <td>  
                 김다미: <a href="https://docs.google.com/presentation/d/1Ee2HLbYbDE-a2ZU6oZNaGxUF5WFHsSAeUu-3hSKVvQE/edit?usp=sharing">2장</a>
@@ -37,7 +37,7 @@ Clean Code를 읽고 정리해나가는 스터디입니다.🌱
         </tr>
         <tr>
             <td> 3 </td>
-            <td> 09.29(수) </td>
+            <td> 09.30(목) </td>
             <td> Day 3. 3장: 함수 </td>
             <td>  
                 이호찬: <a href="./3ch/cleancode-3장.pdf">3장</a>
@@ -45,7 +45,7 @@ Clean Code를 읽고 정리해나가는 스터디입니다.🌱
         </tr>
         <tr>
             <td> 4 </td>
-            <td> 09.30(목) </td>
+            <td> 09.31(금) </td>
             <td> Day 4. 4장: 주석 </td>
             <td>  
                 김다미: <a href="./4ch/ch-04.md">4장</a>
@@ -53,7 +53,7 @@ Clean Code를 읽고 정리해나가는 스터디입니다.🌱
         </tr>
         <tr>
             <td> 5 </td>
-            <td> 10.01(금) </td>
+            <td> 10.05(화) </td>
             <td> Day 5. 5장: 형식 맞추기 </td>
             <td>  
                 이호찬: <a href="./5ch/5ch.md">5장</a>
@@ -61,15 +61,22 @@ Clean Code를 읽고 정리해나가는 스터디입니다.🌱
         </tr>
          <tr>
             <td> 6 </td>
-            <td> 10.05(화) </td>
+            <td> 10.06(수) </td>
             <td> Day 6. 6장: 객체와 자료 구조 </td>
             <td>  
                 김다미: <a href="./6ch/ch-06.md">6장</a>
             </td>
         </tr>
+        <tr>
+            <td> 7 </td>
+            <td> 10.07(목) </td>
+            <td> Day 7. 7장: 오류 처리 </td>
+            <td>  
+                이호찬: <a href="./7ch/ch-07.md">7장</a>
+            </td>
+        </tr>
     </tbody>
 </table>
-
 
 <br />
 <hr />
