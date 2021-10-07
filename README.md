@@ -75,6 +75,14 @@ Clean Code를 읽고 정리해나가는 스터디입니다.🌱
                 이호찬: <a href="./7ch/ch-07.md">7장</a>
             </td>
         </tr>
+         <tr>
+            <td> 8 </td>
+            <td> 10.08(금) </td>
+            <td> Day 8. 8장: 경계 </td>
+            <td>  
+                김다미: <a href="./8ch/ch-08.md">8장</a>
+            </td>
+        </tr>
     </tbody>
 </table>
 
