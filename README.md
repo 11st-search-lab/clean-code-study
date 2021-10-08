@@ -83,6 +83,14 @@ Clean Code를 읽고 정리해나가는 스터디입니다.🌱
                 김다미: <a href="./8ch/ch-08.md">8장</a>
             </td>
         </tr>
+        <tr>
+            <td> 9 </td>
+            <td> 10.12(화) </td>
+            <td> Day 9. 9장: 단위 테스트 </td>
+            <td>  
+                이호찬: <a href="./9ch/ch-09.md">9장</a>
+            </td>
+        </tr>
     </tbody>
 </table>
 
