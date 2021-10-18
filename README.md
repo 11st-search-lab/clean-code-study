@@ -91,6 +91,14 @@ Clean Code를 읽고 정리해나가는 스터디입니다.🌱
                 이호찬: <a href="./9ch/ch-09.md">9장</a>
             </td>
         </tr>
+            <tr>
+            <td> 9 </td>
+            <td> 10.13(수) </td>
+            <td> Day 10. 10장: 클래스 </td>
+            <td>  
+                : <a href="./10ch/ch-10.md">10장</a>
+            </td>
+        </tr>
     </tbody>
 </table>
 
